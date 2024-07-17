@@ -1,1 +1,1 @@
-# NewsApp
+  Created NewsApp using ReactJS
